@@ -1,5 +1,7 @@
  GStack Elite
 
+ Structured AI workflows. Modular orchestration. Smarter problem solving.
+
 GStack Elite is an open-source AI workflow framework designed to bring structure, clarity, and efficiency to AI-assisted problem solving.
 
  What It Does
